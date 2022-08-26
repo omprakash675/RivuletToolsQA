@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="32.473">
+<testcase classname="Testing element tab in Tool QA" name="Configuration and Entering URL for Negative TC" time="31.668">
+<system-out><![CDATA[Given Entering the URL for Negative TC......................................passed
+Given Clicking the text box tab for Negative TC.............................passed
+And Entering name "Ram Kumar" email "ram" current address "Chennai" permanent address "Delhi" for Negative TC.passed
+Then submiting the Negative TC..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

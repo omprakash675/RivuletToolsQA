@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="11" time="104.814">
+<testcase classname="Testing element tab in Tool QA" name="Configuration and Entering URL" time="23.872">
+<system-out><![CDATA[Given Entering the URL......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing element tab in Tool QA" name="Testing Text Box" time="8.743">
+<system-out><![CDATA[Given Clicking the text box tab.............................................passed
+And Entering name "Ram Kumar" email "ram@gmail.com" current address "Chennai" permanent address "Delhi".passed
+When Clicking submit button.................................................passed
+And Displaying and Verifying the Data.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing element tab in Tool QA" name="Testing Check Box" time="3.465">
+<system-out><![CDATA[Given Clicking the Check tab................................................passed
+And Opening all the options.................................................passed
+When Selecting the Notes in Desktop, angular in workplace, General in office and entire block of downloads.passed
+Then Displaying the selected ones...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing element tab in Tool QA" name="Testing Radio button" time="1.518">
+<system-out><![CDATA[Given Clicking Radio button.................................................passed
+And Selecting the requird option............................................passed
+Then Verifying the option...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing element tab in Tool QA" name="Testing Web tables" time="17.005">
+<system-out><![CDATA[Given Clicking Web tables...................................................passed
+When Adding new data to the tables name "Ram" lastname "Kumar" email "ram@gmail.com" age "23".passed
+And Adding rest of the data salary "40000" Dept "IT" and submitting.........passed
+And Deleting one of the table data..........................................passed
+Then Editing the exisiting data.............................................passed
+Then Searching the person data..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing element tab in Tool QA" name="Testing buttons" time="6.523">
+<system-out><![CDATA[Given Clicking buttons......................................................passed
+And Double clicking and displaying..........................................passed
+Then Right Clicking and Displaying..........................................passed
+Then Clicking the buttons...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing element tab in Tool QA" name="Testing links" time="14.277">
+<system-out><![CDATA[Given Clicking the link.....................................................passed
+And Clicking the new tab links..............................................passed
+Then Clicking various option links and printing.............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing element tab in Tool QA" name="Testing Broken link and Images" time="1.269">
+<system-out><![CDATA[Given Clicking the tab link.................................................passed
+And Checking the image is displayed or not..................................passed
+Then Cheching whether it is valid link or not...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing element tab in Tool QA" name="Uploading and Downloading Test" time="1.177">
+<system-out><![CDATA[Given Clicking the uploading and downloading................................passed
+And Downloading the image...................................................passed
+Then Uplading the image.....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing element tab in Tool QA" name="Checking Dynamic Properties" time="13.638">
+<system-out><![CDATA[Given Clicking the dynamic properties tab...................................passed
+Then Displaying dynamic button text.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing element tab in Tool QA" name="Exiting the browser" time="12.206">
+<system-out><![CDATA[Given Exiting the web browser...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
